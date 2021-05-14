@@ -16,3 +16,21 @@ and font and appearance as per user's need.
   engine = pyttsx3.init()<br />
   engine.say("I will speak this text")<br />
   engine.runAndWait()<br />
+ ### tkinter
+  The tkinter package (“Tk interface”) is the standard Python interface to the Tk GUI toolkit.<br />
+  Both Tk and tkinter are available on most Unix platforms, as well as on Windows systems. <br />
+  (Tk itself is not part of Python; it is maintained at ActiveState.)
+ ### Installation
+* pip install tk
+ ### Usage:
+ from tkinter import *<br />
+ root=Tk()<br />
+ root.geometry("700x550")<br />
+ root.resizable(0,0)<br />
+ root.mainloop()
+ ### datatime
+The datetime module supplies classes for manipulating dates and times.
+### Usage
+import datetime<br />
+x = datetime.datetime.now()
+
