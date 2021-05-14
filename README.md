@@ -34,4 +34,4 @@ The datetime module supplies classes for manipulating dates and times.
 import datetime<br />
 x = datetime.datetime.now()
 
-![Scripter]()
+![Scripter](scrip.PNG)
