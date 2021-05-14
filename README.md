@@ -1,4 +1,7 @@
-# Scriptpad
+# Scripter
 ## Introduction
-It is a scriptpad which is just like notepad. User can open text file , save it and also change the font 
-,  size and theme of a scriptpad. User can also make a text them speech.
+Scripter is a Tkinter based text editor similar to Notepad with added functionalities like text-to-speech, 
+theme setting and more. It serves the basic features as well like open a text file, save file
+and font and appearance as per user's need.
+## Modules Used:
+* 
